@@ -241,6 +241,7 @@ ul{
     right: 10px;
     top: 0px;
     height: 100%;
+    display:flex;
 }
 .main-bg img{
     height: 100%;
