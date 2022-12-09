@@ -247,6 +247,7 @@ ul{
     height: 100%;
     object-fit: contain;
     object-position: center right;
+    margin-left:auto;
 }
 /*==partner============================*/
 #partner{
