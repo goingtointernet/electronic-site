@@ -290,7 +290,8 @@ ul{
     width: 100%;
     margin: auto;
 }
-.product-heading h3{
+.product-heading h3,
+.product-heading h2{
     font-size: 1.56rem;
     font-weight: 700;
     color: #202020;
@@ -877,7 +878,8 @@ footer{
         min-height: 200px;
     }
     .h-contact-text h3,
-    .product-heading h3{
+    .product-heading h3,
+    .product-heading h2{
         font-size: 1.4rem;
     }
     .services{
